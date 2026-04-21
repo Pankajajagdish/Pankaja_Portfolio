@@ -1,0 +1,9 @@
+{
+  "build": {
+    "command": "",
+    "publish": "."
+  },
+  "env": {
+    "NETLIFY_CACHE_LIMIT": "false"
+  }
+}
